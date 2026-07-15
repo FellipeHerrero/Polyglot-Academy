@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+build/
+dist/
+
+*.exe
+
+*.spec
+
+.vscode/
+.idea/
