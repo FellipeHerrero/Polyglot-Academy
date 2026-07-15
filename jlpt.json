@@ -1,0 +1,142 @@
+[
+    {
+        "nivel": "N5",
+        "pregunta": "私は毎朝コーヒー___飲みます。",
+        "opciones": [
+            "を",
+            "が",
+            "に",
+            "で"
+        ],
+        "correcta": "を",
+        "frase_completa": "私は毎朝コーヒーを飲みます",
+        "lectura_romaji": "watashi wa maiasa koohii o nomimasu",
+        "explicacion": "La partícula 'を' (o) marca el objeto directo de la acción. Aquí, 'コーヒー' (café) es el objeto que se bebe."
+    },
+    {
+        "nivel": "N5",
+        "pregunta": "図書館で本___借りました。",
+        "opciones": [
+            "を",
+            "が",
+            "に",
+            "で"
+        ],
+        "correcta": "を",
+        "frase_completa": "図書館で本を借りました",
+        "lectura_romaji": "toshokan de hon o karimashita",
+        "explicacion": "Se utiliza 'を' (o) para enlazar el objeto directo '本' (libro) con el verbo transitivo '借りました' (tomar prestado)."
+    },
+    {
+        "nivel": "N5",
+        "pregunta": "日曜日___テニスをします。",
+        "opciones": [
+            "に",
+            "を",
+            "で",
+            "が"
+        ],
+        "correcta": "に",
+        "frase_completa": "日曜日にテニスをします",
+        "lectura_romaji": "nichiyoubi ni tenisu o shimasu",
+        "explicacion": "La partícula 'に' (ni) se añade detrás de palabras que expresan un tiempo específico (como los días de la semana) para marcar el momento de la acción."
+    },
+    {
+        "nivel": "N5",
+        "pregunta": "このペン___書いてください。",
+        "opciones": [
+            "で",
+            "に",
+            "を",
+            "が"
+        ],
+        "correcta": "で",
+        "frase_completa": "このペンで書いてください",
+        "lectura_romaji": "kono pen de kaite kudasai",
+        "explicacion": "La partícula 'で' (de) indica el medio, herramienta o instrumento que se utiliza para realizar la acción (escribir con este bolígrafo)."
+    },
+    {
+        "nivel": "N5",
+        "pregunta": "駅までタクシー___五分です。",
+        "opciones": [
+            "で",
+            "に",
+            "から",
+            "まで"
+        ],
+        "correcta": "で",
+        "frase_completa": "駅までタクシーで五分です",
+        "lectura_romaji": "eki made takushii de gofun desu",
+        "explicacion": "La partícula 'で' aquí define el medio de transporte o la limitación física bajo la cual toma lugar el trayecto."
+    },
+    {
+        "nivel": "N4",
+        "pregunta": "雨が降って___、学校に行きます。",
+        "opciones": [
+            "も",
+            "て",
+            "たら",
+            "なら"
+        ],
+        "correcta": "も",
+        "frase_completa": "雨が降っても学校に行きます",
+        "lectura_romaji": "ame ga futtemo gakkou ni ikimasu",
+        "explicacion": "La estructura '-te + も' (futtemo) expresa concesión extrema: 'Incluso si / aunque llueva, iré a la escuela'."
+    },
+    {
+        "nivel": "N4",
+        "pregunta": "先生はもうお帰り___。",
+        "opciones": [
+            "になりました",
+            "しました",
+            "でした",
+            "にしました"
+        ],
+        "correcta": "になりました",
+        "frase_completa": "先生はもうお帰りになりました",
+        "lectura_romaji": "sensei wa mou okaeri ni narimashita",
+        "explicacion": "La estructura de respeto (Keigo) se forma con 'お + raíz verbal de la forma masu + になる'. Regresar es '帰ります', su raíz es '帰り'."
+    },
+    {
+        "nivel": "N4",
+        "pregunta": "漢字が難しくて、書け___。",
+        "opciones": [
+            "ません",
+            "ます",
+            "ない",
+            "なかった"
+        ],
+        "correcta": "ません",
+        "frase_completa": "漢字が難しくて書けません",
+        "lectura_romaji": "kanji ga muzukashikute kakemasen",
+        "explicacion": "El verbo '書く' (escribir) se convierte en potencial '書ける' (poder escribir). Su forma negativa educada es '書けません' (no poder escribir)."
+    },
+    {
+        "nivel": "N4",
+        "pregunta": "テレビを___ながらご飯を食べます。",
+        "opciones": [
+            "見",
+            "見る",
+            "見て",
+            "見た"
+        ],
+        "correcta": "見",
+        "frase_completa": "テレビを見ながらご飯を食べます",
+        "lectura_romaji": "terebi o minagara gohan o tabemasu",
+        "explicacion": "La partícula gramatical 'ながら' (nagara) denota acciones simultáneas y se añade directamente a la raíz (stem) del verbo (forma -masu sin 'masu')."
+    },
+    {
+        "nivel": "N4",
+        "pregunta": "日本語が上手に___なりました。",
+        "opciones": [
+            "に",
+            "な",
+            "を",
+            "が"
+        ],
+        "correcta": "に",
+        "frase_completa": "日本語が上手になりました",
+        "lectura_romaji": "nihongo ga jouzu ni narimashita",
+        "explicacion": "Para indicar cambio de estado con un adjetivo de tipo -na (上手), se remueve el 'na' y se agrega la partícula 'に' seguida de 'なる' (narimashita)."
+    }
+]

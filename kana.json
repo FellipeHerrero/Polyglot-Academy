@@ -1,0 +1,462 @@
+[
+    {
+        "caracter": "あ",
+        "romaji": "a",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "い",
+        "romaji": "i",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "う",
+        "romaji": "u",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "え",
+        "romaji": "e",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "お",
+        "romaji": "o",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "か",
+        "romaji": "ka",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "き",
+        "romaji": "ki",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "く",
+        "romaji": "ku",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "け",
+        "romaji": "ke",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "こ",
+        "romaji": "ko",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "さ",
+        "romaji": "sa",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "し",
+        "romaji": "shi",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "す",
+        "romaji": "su",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "せ",
+        "romaji": "se",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "そ",
+        "romaji": "so",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "た",
+        "romaji": "ta",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ち",
+        "romaji": "chi",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "つ",
+        "romaji": "tsu",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "て",
+        "romaji": "te",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "と",
+        "romaji": "to",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "な",
+        "romaji": "na",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "に",
+        "romaji": "ni",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ぬ",
+        "romaji": "nu",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ね",
+        "romaji": "ne",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "の",
+        "romaji": "no",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "は",
+        "romaji": "ha",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ひ",
+        "romaji": "hi",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ふ",
+        "romaji": "fu",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "へ",
+        "romaji": "he",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ほ",
+        "romaji": "ho",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ま",
+        "romaji": "ma",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "み",
+        "romaji": "mi",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "む",
+        "romaji": "mu",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "め",
+        "romaji": "me",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "も",
+        "romaji": "mo",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "や",
+        "romaji": "ya",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ゆ",
+        "romaji": "yu",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "よ",
+        "romaji": "yo",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ら",
+        "romaji": "ra",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "り",
+        "romaji": "ri",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "る",
+        "romaji": "ru",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "れ",
+        "romaji": "re",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ろ",
+        "romaji": "ro",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "わ",
+        "romaji": "wa",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "を",
+        "romaji": "wo",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ん",
+        "romaji": "n",
+        "tipo": "hiragana"
+    },
+    {
+        "caracter": "ア",
+        "romaji": "a",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "イ",
+        "romaji": "i",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ウ",
+        "romaji": "u",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "エ",
+        "romaji": "e",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "オ",
+        "romaji": "o",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "カ",
+        "romaji": "ka",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "キ",
+        "romaji": "ki",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ク",
+        "romaji": "ku",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ケ",
+        "romaji": "ke",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "コ",
+        "romaji": "ko",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "サ",
+        "romaji": "sa",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "シ",
+        "romaji": "shi",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ス",
+        "romaji": "su",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "セ",
+        "romaji": "se",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ソ",
+        "romaji": "so",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "タ",
+        "romaji": "ta",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "チ",
+        "romaji": "chi",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ツ",
+        "romaji": "tsu",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "テ",
+        "romaji": "te",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ト",
+        "romaji": "to",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ナ",
+        "romaji": "na",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ニ",
+        "romaji": "ni",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ヌ",
+        "romaji": "nu",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ネ",
+        "romaji": "ne",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ノ",
+        "romaji": "no",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ハ",
+        "romaji": "ha",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ヒ",
+        "romaji": "hi",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "フ",
+        "romaji": "fu",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ヘ",
+        "romaji": "he",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ホ",
+        "romaji": "ho",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "マ",
+        "romaji": "ma",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ミ",
+        "romaji": "mi",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ム",
+        "romaji": "mu",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "メ",
+        "romaji": "me",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "モ",
+        "romaji": "mo",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ヤ",
+        "romaji": "ya",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ユ",
+        "romaji": "yu",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ヨ",
+        "romaji": "yo",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ラ",
+        "romaji": "ra",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "リ",
+        "romaji": "ri",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ル",
+        "romaji": "ru",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "レ",
+        "romaji": "re",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ロ",
+        "romaji": "ro",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ワ",
+        "romaji": "wa",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ヲ",
+        "romaji": "wo",
+        "tipo": "katakana"
+    },
+    {
+        "caracter": "ン",
+        "romaji": "n",
+        "tipo": "katakana"
+    }
+]

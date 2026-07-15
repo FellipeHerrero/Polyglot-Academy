@@ -1,0 +1,692 @@
+[
+    {
+        "es": "Quemar las pestañas / Estudiar o trabajar hasta altas horas de la noche",
+        "pt": "Queimar as pestanas / Estudar ou trabalhar até tarde da noite",
+        "en": "burn the midnight oil",
+        "explicacion": "Significa trabajar arduamente durante la noche. Proviene de la época previa a la electricidad, cuando las personas debían consumir el aceite de sus lámparas para tener luz y seguir trabajando."
+    },
+    {
+        "es": "Tomar el camino más fácil / Ahorrar tiempo o dinero a costa de la calidad",
+        "pt": "Pegar atalhos / Fazer algo de forma desleixada para economizar tempo ou dinheiro",
+        "en": "cut corners",
+        "explicacion": "Proviene de la hípica o la conducción, donde recortar las esquinas de una ruta ahorra trayecto, pero es sumamente peligroso y antideportivo."
+    },
+    {
+        "es": "Quitarle el protagonismo a alguien / Adelantarse a las ideas de otro",
+        "pt": "Roubar a cena / Tomar o crédito pelas ideias de outra pessoa",
+        "en": "steal someone's thunder",
+        "explicacion": "Nace en el siglo XVIII cuando el dramaturgo John Dennis inventó un método para simular el sonido del trueno en el teatro. Su obra fracasó, pero otros teatros copiaron su truco del trueno en producciones exitosas, 'robándole' su trueno."
+    },
+    {
+        "es": "Tomar algo con pinzas / No creerse algo al pie de la letra",
+        "pt": "Não levar totalmente a sério / Ter um pé atrás com alguma informação",
+        "en": "take it with a grain of salt",
+        "explicacion": "Se remonta a antiguos tratados de medicina donde se sugería ingerir venenos con un pequeño grano de sal para neutralizar o digerir mejor sus efectos letales."
+    },
+    {
+        "es": "Estar muy atento / Estar sumamente concentrado y listo",
+        "pt": "Estar esperto / Estar muito atento e focado",
+        "en": "on the ball",
+        "explicacion": "Se originó en deportes de pelota (béisbol o cricket), donde mantener la vista estrictamente en el balón era el factor de éxito indispensable."
+    },
+    {
+        "es": "No hay mal que por bien no venga / Una bendición disfrazada",
+        "pt": "Há males que vêm para o bem / Uma bênção disfarçada",
+        "en": "blessing in disguise",
+        "explicacion": "Describe un evento que inicialmente parece una desgracia absoluta, pero que a largo plazo desata consecuencias extraordinariamente positivas."
+    },
+    {
+        "es": "Sentirse un poco enfermo o indispuesto",
+        "pt": "Sentir-se um pouco indisposto ou doente",
+        "en": "under the weather",
+        "explicacion": "Viene del lenguaje marítimo. Cuando los marineros se mareaban por tormentas, iban bajo la cubierta del barco para resguardarse del clima ('under the weather') y descansar."
+    },
+    {
+        "es": "Estar extremadamente feliz / Estar en el séptimo cielo",
+        "pt": "Estar extremamente feliz / Estar nas nuvens",
+        "en": "be on cloud nine",
+        "explicacion": "El término proviene de las clasificaciones meteorológicas antiguas, donde la 'Nube Nueve' (cumulonimbo) era la nube más alta y majestuosa que existía."
+    },
+    {
+        "es": "Ladrarle al árbol equivocado / Culpar o investigar a la persona errónea",
+        "pt": "Procurar no lugar errado / Acusar a pessoa errada",
+        "en": "bark up the wrong tree",
+        "explicacion": "Nace de los perros de caza que perseguían mapaches hasta los árboles y terminaban ladrándole a un árbol vacío porque el animal ya había escapado."
+    },
+    {
+        "es": "Llorar sobre la leche derramada / Lamentarse por algo irreversible",
+        "pt": "Chorar pelo leite derramado",
+        "en": "cry over spilled milk",
+        "explicacion": "Expresión clásica que enfatiza la inutilidad de gastar energía preocupándose por un error del pasado que no se puede cambiar."
+    },
+    {
+        "es": "Empezar de cero / Volver a la mesa de dibujo",
+        "pt": "Voltar à estaca zero / Recomeçar um projeto do início",
+        "en": "back to the drawing board",
+        "explicacion": "Popularizada en los años 40 por caricaturas de ingenieros aeronáuticos cuyos aviones de prueba se estrellaban, obligándolos a regresar a sus tableros de diseño físico."
+    },
+    {
+        "es": "Hacer de abogado del diablo / Argumentar en contra solo por debatir",
+        "pt": "Fazer o papel de advogado do diabo",
+        "en": "play devil's advocate",
+        "explicacion": "Viene de un proceso formal de la Iglesia Católica donde se designaba a un clérigo para buscar defectos o falsedades en la vida de un candidato a la canonización."
+    },
+    {
+        "es": "Quemar puentes / Cortar relaciones de forma definitiva",
+        "pt": "Queimar pontes / Cortar relações de forma irreversível",
+        "en": "burn bridges",
+        "explicacion": "Proviene de tácticas militares donde los ejércitos invasores destruían los puentes detrás de ellos para eliminar cualquier tentación o posibilidad de retirada."
+    },
+    {
+        "es": "Subirse al carro de la victoria / Seguir una moda o corriente popular",
+        "pt": "Entrar na onda / Seguir uma tendência popular",
+        "en": "jump on the bandwagon",
+        "explicacion": "En la política estadounidense del siglo XIX, se usaban carros con bandas musicales para atraer multitudes; los políticos se subían a ellos para ganar simpatía rápida."
+    },
+    {
+        "es": "Mantener algo a raya / Evitar que un problema se acerque",
+        "pt": "Manter sob controle / Evitar que algo ruim se aproxime",
+        "en": "keep something at bay",
+        "explicacion": "Se remonta a las batallas navales y cacerías donde las presas acorraladas hacían frente a sus perseguidores para evitar que se acercaran demasiado."
+    },
+    {
+        "es": "Irse por las ramas / No ir al grano",
+        "pt": "Ficar enrolando / Não ir direto ao ponto",
+        "en": "beat around the bush",
+        "explicacion": "Significa evitar hablar de un tema importante o doloroso. Proviene de la caza medieval: los ayudantes golpeaban los arbustos ('beat the bushes') para hacer salir a las aves antes de que los cazadores dispararan, retrasando el momento de la acción directa."
+    },
+    {
+        "es": "Asumir las consecuencias de tus actos / 'Dar la cara'",
+        "pt": "Encarar as consequências / Assumir a responsabilidade",
+        "en": "face the music",
+        "explicacion": "Significa aceptar el castigo o la crítica por algo que hiciste mal. Su origen es militar: cuando un soldado era expulsado del ejército deshonrosamente, se realizaba una ceremonia donde se tocaban tambores de fondo ('la música') mientras marchaba hacia afuera."
+    },
+    {
+        "es": "Dar en el clavo / Acertar exactamente",
+        "pt": "Acertar na mosca / Acertar em cheio",
+        "en": "hit the nail on the head",
+        "explicacion": "Expresa que alguien ha descrito una situación o resuelto un problema de la manera más precisa posible, tal como un carpintero experimentado que golpea el clavo exactamente en su cabeza."
+    },
+    {
+        "es": "Revelar un secreto sin querer / 'Irse de la lengua'",
+        "pt": "Dar com a língua nos dentes / Revelar um segredo",
+        "en": "let the cat out of the bag",
+        "explicacion": "Proviene de los mercados antiguos donde se vendían cerdos pequeños dentro de sacos. Los vendedores fraudulentos a veces metían gatos callejeros en su lugar. El secreto se revelaba cuando el comprador abría el saco en casa y salía el gato."
+    },
+    {
+        "es": "Muy rara vez / Una vez cada mil años",
+        "pt": "Uma vez na vida, outra na morte / Muito raramente",
+        "en": "once in a blue moon",
+        "explicacion": "Hace referencia a un fenómeno astronómico real: la aparición de una segunda luna llena en un mismo mes calendario, un evento inusual que ocurre aproximadamente cada 2.7 años."
+    },
+    {
+        "es": "Perder la oportunidad por actuar tarde",
+        "pt": "Perder o bonde / Perder a oportunidade",
+        "en": "miss the boat",
+        "explicacion": "Se utiliza cuando alguien es demasiado lento para aprovechar una gran oferta, un negocio o una situación favorable, quedándose metafóricamente en el muelle."
+    },
+    {
+        "es": "No escatimar esfuerzos / Buscar por todos lados",
+        "pt": "Não poupar esforços / Investigar minuciosamente",
+        "en": "leave no stone unturned",
+        "explicacion": "Tiene origen en una antigua leyenda griega sobre un general que enterró un tesoro en su tienda de campaña tras ser derrotado. El oráculo aconsejó al buscador 'no dejar ninguna piedra sin voltear' para hallarlo."
+    },
+    {
+        "es": "Por los pelos / Por un pelo de rana",
+        "pt": "Por um triz / De raspão",
+        "en": "by the skin of my teeth",
+        "explicacion": "Significa escapar de un peligro o lograr algo por un margen extremadamente estrecho. Proviene de una traducción literal del Libro de Job en la Biblia ('He escapado con la piel de mis dientes'), sugiriendo que los dientes no tienen piel, por lo tanto, el margen fue casi nulo."
+    },
+    {
+        "es": "Tomar el pelo a alguien / Bromear",
+        "pt": "Tirar onda com alguém / Brincar ou zoar",
+        "en": "pull someone's leg",
+        "explicacion": "Hoy significa bromear, pero en el Londres del siglo XIX era un método de los ladrones callejeros, quienes usaban bastones o cuerdas para hacer tropezar ('pull the leg') a las personas y robarles mientras caían."
+    },
+    {
+        "es": "Estar indeciso / No tomar una postura",
+        "pt": "Ficar em cima do muro / Indeciso",
+        "en": "on the fence",
+        "explicacion": "Describe a alguien que no apoya a ninguno de los dos bandos en una discusión. Metafóricamente, la persona está sentada sobre la cerca, mirando ambos lados de la propiedad sin cruzarse a ninguno."
+    },
+    {
+        "es": "En las buenas y en las malas",
+        "pt": "Na alegria e na tristeza / Custe o que custar",
+        "en": "through thick and thin",
+        "explicacion": "Se refiere a mantener la lealtad absoluta bajo cualquier circunstancia. Nace en los bosques feudales de Inglaterra, donde los viajeros debían avanzar a través de vegetación despejada ('thin') o follaje denso y peligroso ('thick')."
+    },
+    {
+        "es": "Tirar la toalla / Rendirse",
+        "pt": "Jogar a toalha / Desistir",
+        "en": "throw in the towel",
+        "explicacion": "Modismo tomado directamente del boxeo. Cuando los entrenadores veían que su boxeador ya no podía resistir más golpes y querían detener la pelea para protegerlo, arrojaban la toalla de secar el sudor al centro del ring."
+    },
+    {
+        "es": "Trabajar en exceso de día y de noche / Agotarse",
+        "pt": "Trabalhar até a exaustão / Queimar a vela nas duas pontas",
+        "en": "burn the candle at both ends",
+        "explicacion": "Significa gastar tus energías desmesuradamente levantándote muy temprano y acostándote muy tarde. Encender una vela por ambos extremos hace que se consuma el doble de rápido, destruyéndose a sí misma."
+    },
+    {
+        "es": "Jugárselo todo a una sola carta / Arriesgar todo en un solo plan",
+        "pt": "Apostar todas as fichas em uma coisa só",
+        "en": "put all your eggs in one basket",
+        "explicacion": "Advertencia clásica de negocios y finanzas: si pones todos los huevos en una misma canasta y esta se cae, los perderás absolutamente todos sin tener un respaldo."
+    },
+    {
+        "es": "El problema obvio del que nadie quiere hablar",
+        "pt": "O problema óbvio que todo mundo finge não ver",
+        "en": "the elephant in the room",
+        "explicacion": "Se refiere a una verdad incómoda, obvia y gigantesca que todos los presentes conocen perfectamente, pero que evitan mencionar activamente para no generar tensión o discusiones."
+    },
+    {
+        "es": "Costar un ojo de la cara / Ser extremadamente caro",
+        "pt": "Custar os olhos da cara / Extremamente caro",
+        "en": "cost an arm and a leg",
+        "explicacion": "Se popularizó tras las guerras del siglo XX, donde los soldados que regresaban mutilados sin un brazo o una pierna pagaban un 'costo' físico incalculable por sobrevivir al conflicto."
+    },
+    {
+        "es": "En el último minuto / A última hora",
+        "pt": "Na última hora / No último segundo",
+        "en": "at the eleventh hour",
+        "explicacion": "Proviene de una parábola bíblica sobre los trabajadores contratados para trabajar en un viñedo; los que llegaron a la hora número 11 (la última hora laboral del día) recibieron el mismo pago que los que trabajaron todo el día."
+    },
+    {
+        "es": "Estar de acuerdo con alguien / Compartir la misma opinión",
+        "pt": "Concordar plenamente / Estar em sintonia",
+        "en": "see eye to eye",
+        "explicacion": "Significa mirar directamente a los ojos de otra persona desde una misma altura física, simbolizando igualdad de pensamiento y entendimiento mutuo sin conflictos."
+    },
+    {
+        "es": "¡Mucho éxito! / ¡Rompe una pierna! (Teatro)",
+        "pt": "Boa sorte! / Quebre a perna! (Teatro)",
+        "en": "break a leg",
+        "explicacion": "Expresión de buena suerte usada exclusivamente en el teatro. Los actores creen que desear la suerte directamente atrae a los malos espíritus, por lo que desear algo terrible (romperse una pierna) invoca el efecto contrario."
+    },
+    {
+        "es": "Estar al mando / Tomar las decisiones importantes",
+        "pt": "Dar as cartas / Estar no comando",
+        "en": "call the shots",
+        "explicacion": "Proviene de la jerga de los tiradores de precisión o billaristas de alto nivel, quienes antes de realizar un tiro, anunciaban públicamente en qué parte exacta del objetivo o qué tronera golpearía la bola ('calling the shot')."
+    },
+    {
+        "es": "De vanguardia / Lo último en tecnología",
+        "pt": "De última geração / Tecnologia de ponta",
+        "en": "cutting-edge",
+        "explicacion": "Hace referencia a la parte más afilada de una herramienta de corte (como un bisturí o espada), la cual abre camino primero. En negocios denota innovación disruptiva."
+    },
+    {
+        "es": "Echarse atrás en el último momento por miedo",
+        "pt": "Amarelar / Desistir na última hora por medo",
+        "en": "get cold feet",
+        "explicacion": "Término de origen militar. Los soldados cuyos pies sufrían de congelación en las trincheras no podían marchar ni combatir, usándose luego como metáfora para quien se paraliza por el pánico escénico antes de actuar."
+    },
+    {
+        "es": "Improvisar sobre la marcha",
+        "pt": "Improvisar / Ver o que acontece no momento",
+        "en": "play it by ear",
+        "explicacion": "Viene del mundo de la música clásica. Tocar una pieza 'de oído' ('by ear') significa interpretarla directamente sin partitura física al frente, improvisando y adaptando las notas según el sonido."
+    },
+    {
+        "es": "La gota que colmó el vaso",
+        "pt": "A gota d'água / O limite",
+        "en": "the last straw",
+        "explicacion": "Abreviatura de la frase histórica: 'Es la última paja la que rompe el lomo del camello'. Describe un pequeño problema adicional que, sumado a una gran carga acumulada, provoca un colapso definitivo."
+    },
+    {
+        "es": "Hacer algo de forma ilegal, secreta o con sobornos",
+        "pt": "Por debaixo dos panos / Fazer algo ilegal ou secreto",
+        "en": "under the table",
+        "explicacion": "Se refiere a transacciones de dinero en efectivo o acuerdos corruptos que se realizan físicamente bajo el nivel de la mesa de reuniones para que los inspectores u otras personas no puedan ver el intercambio."
+    },
+    {
+        "es": "Para abreviar / En pocas palabras",
+        "pt": "Para encurtar a história / Resumindo",
+        "en": "make a long story short",
+        "explicacion": "Frase de transición utilizada para omitir detalles innecesarios de una anécdota larga y aburrida, saltando directamente al desenlace o conclusión relevante."
+    },
+    {
+        "es": "Las acciones valen más que las palabras",
+        "pt": "Ações valem mais que palavras / Atitude é tudo",
+        "en": "actions speak louder than words",
+        "explicacion": "Filosofía pragmática inglesa del siglo XVII. Expresa que el verdadero carácter y las intenciones de una persona se demuestran con lo que hace, no con sus promesas o discursos vacíos."
+    },
+    {
+        "es": "Dar una falsa alarma / Mentir repetidamente hasta perder credibilidad",
+        "pt": "Mentir muito até ninguém mais acreditar / Dar alarme falso",
+        "en": "cry wolf",
+        "explicacion": "Proviene directamente de la famosa fábula de Esopo sobre el joven pastor mentiroso que se divertía engañando a los aldeanos gritando que venía el lobo, hasta que el lobo real llegó y nadie acudió a salvarlo."
+    },
+    {
+        "es": "Tener los pies sobre la tierra / Persona realista y humilde",
+        "pt": "Pé no chão / Pessoa realista e sensata",
+        "en": "down-to-earth",
+        "explicacion": "Adjetivo altamente valorado en el ámbito profesional C1. Describe a una persona práctica, directa, honesta y libre de pretensiones o arrogancia intelectual."
+    },
+    {
+        "es": "Salirse de control / Perder el orden",
+        "pt": "Sair do controle / Fugir do controle",
+        "en": "get out of hand",
+        "explicacion": "Proviene de la equitación. Si el jinete soltaba las riendas o las perdía de las manos ('out of hand'), el caballo corría desbocado y sin control alguno."
+    },
+    {
+        "es": "Dar el beneficio de la duda",
+        "pt": "Dar o benefício da dúvida / Acreditar na pessoa",
+        "en": "give someone the benefit of the doubt",
+        "explicacion": "Término legal adoptado en el inglés cotidiano. Significa elegir creer la versión de una persona sobre un hecho dudoso mientras no existan pruebas irrefutables de que está mintiendo."
+    },
+    {
+        "es": "Fracasar estrepitosamente",
+        "pt": "Ir por água abaixo / Fracassar totalmente",
+        "en": "go down in flames",
+        "explicacion": "Originalmente hacía referencia a los aviones de combate que eran derribados y caían incendiados de forma irreversible. Hoy se usa para proyectos o presentaciones que terminan en desastre absoluto."
+    },
+    {
+        "es": "Estar al tanto / Mantenerse informado en un grupo",
+        "pt": "Estar por dentro / Estar informado",
+        "en": "in the loop",
+        "explicacion": "Viene de los diagramas de flujo de ingeniería y sistemas de comunicación militar, donde estar dentro del lazo cerrado ('loop') significaba recibir la información de primera mano en el círculo de decisiones."
+    },
+    {
+        "es": "Vigilar de cerca / Echar un ojo",
+        "pt": "Ficar de olho em algo / Vigiar atentamente",
+        "en": "keep an eye on",
+        "explicacion": "Expresión de supervisión activa que denota responsabilidad protectora sobre un objeto, niño o proceso comercial para que nada falle."
+    },
+    {
+        "es": "Perder la habilidad o el talento que se tenía",
+        "pt": "Perder o jeito / Perder o talento para algo",
+        "en": "lose your touch",
+        "explicacion": "Originalmente aplicada a pianistas, cirujanos o magos cuya sensibilidad táctil ('touch') en las manos disminuía con la edad, impidiéndoles ejecutar su arte con la precisión de antes."
+    },
+    {
+        "es": "Sonarme familiar / Traer algo a la memoria",
+        "pt": "Soar familiar / Trazer alguma lembrança",
+        "en": "ring a bell",
+        "explicacion": "Viene del uso de campanas y timbres en experimentos de condicionamiento clásico (como los de Pávlov) o alarmas domésticas destinadas a despertar un recuerdo o activar la atención inmediata."
+    },
+    {
+        "es": "Saber algo de primera fuente / Directo de la fuente original",
+        "pt": "Saber direto da fonte / Informação direta e confiável",
+        "en": "straight from the horse's mouth",
+        "explicacion": "Proviene del mundo de las apuestas hípicas. Para conocer la edad o el verdadero estado de salud de un caballo de carreras, la única fuente 100% confiable era examinar directamente su dentadura ('la boca del caballo')."
+    },
+    {
+        "es": "Echar más leña al fuego / Empeorar una mala situación",
+        "pt": "Piorar ainda mais a situação / Jogar sal na ferida",
+        "en": "add insult to injury",
+        "explicacion": "Se remonta a una antigua fábula romana donde un calvo intenta aplastar a un mosquito en su cabeza, falla, se propina un golpe doloroso a sí mismo, y el mosquito se burla de él, sumando la humillación ('insult') al daño físico ('injury')."
+    },
+    {
+        "es": "Tener lo mejor de dos opciones distintas al mismo tiempo",
+        "pt": "O melhor dos dois mundos / Aproveitar o melhor de tudo",
+        "en": "the best of both worlds",
+        "explicacion": "Se usa cuando un individuo logra disfrutar de las ventajas de dos situaciones totalmente opuestas sin tener que sufrir los inconvenientes de ninguna."
+    },
+    {
+        "es": "Pensar fuera de la caja / Ser creativo e innovador",
+        "pt": "Pensar fora da caixa / Ser criativo",
+        "en": "think outside the box",
+        "explicacion": "Nace del famoso acertijo de los nueve puntos, donde la única forma de unirlos a todos con solo cuatro líneas rectas continuas es dibujando líneas que se extiendan más allá de los límites visuales del cuadrado imaginario."
+    },
+    {
+        "es": "Situación incierta, peligrosa o inestable",
+        "pt": "Uma situação instável ou incerta / No fio da navalha",
+        "en": "touch and go",
+        "explicacion": "Viene del lenguaje de navegación rápida. Cuando un barco navegaba en aguas poco profundas, tocaba el fondo de arena ('touch') y debía salir de inmediato a toda velocidad ('go') antes de encallar definitivamente."
+    },
+    {
+        "es": "Estar en el aire / Algo pendiente de decidir",
+        "pt": "Estar no ar / Indeciso ou pendente",
+        "en": "up in the air",
+        "explicacion": "Se asocia a la imagen de hacer malabares con varios objetos. Mientras los objetos estén flotando en el aire, no se sabe con certeza cuál caerá primero ni dónde terminarán."
+    },
+    {
+        "es": "Tú sabes tanto como yo / No tengo idea",
+        "pt": "O seu palpite é tão bom quanto o meu / Não faço ideia",
+        "en": "your guess is as good as mine",
+        "explicacion": "Frase de camaradería C1 que se utiliza para admitir honesta y llanamente que no se tiene la menor idea de la respuesta ante un problema o pregunta difícil."
+    },
+    {
+        "es": "Estar pisando hielo fino / Arriesgarse demasiado en una situación tensa",
+        "pt": "Andar em ovos / Estar pisando em gelo fino",
+        "en": "skating on thin ice",
+        "explicacion": "Metáfora sumamente gráfica sobre realizar una acción sumamente peligrosa, donde el más mínimo paso en falso quebrará el soporte y te hundirá en aguas heladas de consecuencias fatales."
+    },
+    {
+        "es": "Común y corriente / Del montón",
+        "pt": "Comum / Nada de especial ou extraordinário",
+        "en": "run-of-the-mill",
+        "explicacion": "Originalmente se refería a los productos textiles o de madera fabricados en serie por un molino ('mill') común sin ningún tipo de control de diseño o personalización exclusiva."
+    },
+    {
+        "es": "Desahogarse / Soltar la presión acumulada",
+        "pt": "Desabafar / Soltar o estresse acumulado",
+        "en": "let off steam",
+        "explicacion": "Proviene de la era industrial de las locomotoras de vapor. Si los motores acumulaban demasiada presión interna de calor, debían abrir una válvula para liberar vapor libremente y evitar una explosión masiva."
+    },
+    {
+        "es": "Pasar la noche en vela / Estudiar de forma intensiva a última hora",
+        "pt": "Virar a noite estudando ou trabalhando",
+        "en": "cram",
+        "explicacion": "Verbo avanzado C1 que define la acción de meter a la fuerza gran cantidad de información en la memoria a corto plazo justo antes de rendir un examen importante."
+    },
+    {
+        "es": "Tomar un atajo / Tomar el camino más corto",
+        "pt": "Pegar um atalho",
+        "en": "take a shortcut",
+        "explicacion": "Define la acción de desviarse de la ruta oficial o del procedimiento estándar para ahorrar tiempo en completar una tarea de negocios."
+    },
+    {
+        "es": "Poner las cartas sobre la mesa / Ser completamente honesto",
+        "pt": "Jogar limpo / Colocar as cartas na mesa",
+        "en": "lay one's cards on the table",
+        "explicacion": "Proviene de los juegos de cartas de apuestas donde, al finalizar la ronda, todos los jugadores deben mostrar sus cartas boca arriba de manera transparente para definir al ganador legal."
+    },
+    {
+        "es": "Cambiar de opinión en el último minuto",
+        "pt": "Mudar de ideia na última hora",
+        "en": "have a change of heart",
+        "explicacion": "Expresa una transformación profunda y honesta en la actitud, opinión o sentimientos de una persona respecto a una decisión crucial tomada previamente."
+    },
+    {
+        "es": "Mencionar o introducir un tema en una conversación",
+        "pt": "Mencionar / Trazer um assunto à tona",
+        "en": "bring up",
+        "explicacion": "Phrasal verb C1 esencial. Significa introducir un tema difícil o delicado en una discusión de negocios o personal. Ejemplo: 'Don't bring up the budget during the meeting'."
+    },
+    {
+        "es": "Apostar por la vía dura / Negociar de forma agresiva",
+        "pt": "Jogar pesado / Negociar de forma agressiva",
+        "en": "play hardball",
+        "explicacion": "Viene del béisbol (donde la pelota es rígida y peligrosa, a diferencia del sóftbol). En el mundo de los negocios, significa adoptar una postura estricta, implacable y sin concesiones para ganar una negociación."
+    },
+    {
+        "es": "Ponerse en contacto con alguien para una actualización rápida",
+        "pt": "Fazer contato / Conversar rapidamente para alinhar as coisas",
+        "en": "touch base",
+        "explicacion": "Modismo corporativo muy común en inglés americano. Significa contactar brevemente a un colega o cliente para asegurarse de que ambos están en la misma sintonía sobre un proyecto."
+    },
+    {
+        "es": "Ir directo al grano / Dejar de dar rodeos",
+        "pt": "Ir direto ao ponto / Cortar o blá-blá-blá",
+        "en": "cut to the chase",
+        "explicacion": "Proviene de la época del cine mudo. Los productores de Hollywood notaron que el público se aburría con los diálogos lentos y prefería que la película saltara directamente a la escena de persecución ('the chase')."
+    },
+    {
+        "es": "Empezar con fuerza y dinamismo desde el primer día",
+        "pt": "Começar com força total / Começar a trabalhar sem perder tempo",
+        "en": "hit the ground running",
+        "explicacion": "Originalmente se refería a las tropas paracaidistas que debían correr inmediatamente al tocar tierra en territorio enemigo para no ser blanco fácil. En el ámbito laboral, significa ser productivo desde el inicio."
+    },
+    {
+        "es": "Ponerse al día con una información o habilidad",
+        "pt": "Atualizar-se / Ficar a par de uma situação",
+        "en": "get up to speed",
+        "explicacion": "Significa aprender u obtener toda la información necesaria para alcanzar el nivel de conocimiento o rendimiento requerido en un proyecto."
+    },
+    {
+        "es": "Poner en marcha un proceso o proyecto",
+        "pt": "Dar o pontapé inicial / Começar um processo",
+        "en": "get the ball rolling",
+        "explicacion": "Viene del fútbol u otros deportes donde poner el balón en movimiento da inicio formal al juego. Significa tomar la iniciativa para que un grupo comience a trabajar."
+    },
+    {
+        "es": "Leer entre líneas / Captar un mensaje oculto o implícito",
+        "pt": "Ler nas entrelinhas / Entender o que não foi dito abertamente",
+        "en": "read between the lines",
+        "explicacion": "Habilidad avanzada de comunicación que consiste en descifrar la verdadera intención o significado detrás de las palabras escritas o habladas de alguien."
+    },
+    {
+        "es": "Dar algo por sentado / No valorar algo por tenerlo siempre disponible",
+        "pt": "Não dar o devido valor / Dar algo como garantido",
+        "en": "take for granted",
+        "explicacion": "Error cognitivo común de asumir que una persona, recurso o situación siempre estará allí disponible sin necesidad de cuidarlo o agradecerlo."
+    },
+    {
+        "es": "Llegar a fin de mes (económicamente)",
+        "pt": "Dar um jeito de pagar as contas / Sobreviver com o orçamento",
+        "en": "make ends meet",
+        "explicacion": "Viene del viejo inglés donde 'ends' hacía referencia a los extremos de una cuerda de ingresos y gastos; lograr que se unan ('meet') significa no quedar con deudas al final del mes."
+    },
+    {
+        "es": "Un secreto vergonzoso que se oculta de los demás",
+        "pt": "Um segredo de família vergonhoso / Um esqueleto no armário",
+        "en": "skeleton in the closet",
+        "explicacion": "Metáfora oscura sobre ocultar un hecho del pasado sumamente grave o vergonzoso que arruinaría la reputación de una persona o familia si saliera a la luz."
+    },
+    {
+        "es": "Una gota en el océano / Algo insignificante ante un gran problema",
+        "pt": "Uma gota no oceano / Algo insignificante",
+        "en": "a drop in the ocean",
+        "explicacion": "Se utiliza para ilustrar que un esfuerzo, cantidad de dinero o ayuda es ridículamente pequeña en comparación con la magnitud total de lo que se requiere resolver."
+    },
+    {
+        "es": "Resolver o solucionar un malentendido o problema",
+        "pt": "Resolver um problema / Esclarecer um mal-entendido",
+        "en": "iron out",
+        "explicacion": "Metafóricamente significa 'planchar' las arrugas de una situación para dejarla completamente lisa, fluida y sin asperezas entre las partes."
+    },
+    {
+        "es": "Afrontar un problema con paciencia y resignación",
+        "pt": "Aguentar o tranco / Aceitar uma situação difícil",
+        "en": "bear with",
+        "explicacion": "Phrasal verb formal que se usa mucho en servicio al cliente ('Please bear with me') para pedirle paciencia a alguien mientras resuelves un inconveniente técnico."
+    },
+    {
+        "es": "Hacerse cargo de una responsabilidad o puesto de trabajo",
+        "pt": "Assumir o controle / Tomar a liderança de algo",
+        "en": "take over",
+        "explicacion": "Significa asumir el control de una empresa, departamento o tarea que antes lideraba otra persona."
+    },
+    {
+        "es": "Echarse atrás en un compromiso o acuerdo",
+        "pt": "Dar para trás / Voltar atrás em um acordo",
+        "en": "back out",
+        "explicacion": "Phrasal verb que describe cuando alguien decide romper una promesa, trato comercial o contrato justo antes de que se ejecute por miedo o conveniencia."
+    },
+    {
+        "es": "Destacar sobre la multitud por ser excelente",
+        "pt": "Chamar a atenção / Destacar-se pela excelência",
+        "en": "stand out",
+        "explicacion": "En el nivel C1, este verbo define a candidatos o productos cuya calidad sobresaliente hace imposible que pasen desapercibidos ante los reclutadores."
+    },
+    {
+        "es": "Posponer un evento o reunión para una fecha posterior",
+        "pt": "Adiar / Deixar para depois",
+        "en": "put off",
+        "explicacion": "Equivalente común de 'procrastinar' o 'reprogramar'. Ejemplo: 'We decided to put off the meeting until next Monday'."
+    },
+    {
+        "es": "Cancelar definitivamente un evento planeado",
+        "pt": "Cancelar / Chamar de volta",
+        "en": "call off",
+        "explicacion": "A diferencia de 'put off' (posponer), 'call off' significa suspender por completo un evento, boda, huelga o reunión sin intención de reprogramarla."
+    },
+    {
+        "es": "Descartar una opción o posibilidad de una investigación",
+        "pt": "Descartar uma possibilidade / Eliminar uma opção",
+        "en": "rule out",
+        "explicacion": "Verbo clave para debates analíticos. Significa excluir un factor, sospechoso o teoría tras examinar la evidencia disponible."
+    },
+    {
+        "es": "Enfocarse con absoluta precisión en un objetivo",
+        "pt": "Focar totalmente em algo / Mirar de perto",
+        "en": "zero in on",
+        "explicacion": "Proviene de la calibración de miras telescópicas de precisión, donde ajustar el visor al centro (el cero) garantiza dar en el blanco. Significa concentrar toda la atención en un punto crítico."
+    },
+    {
+        "es": "Reforzar o mejorar la potencia o seguridad de algo",
+        "pt": "Reforçar / Tornar algo mais forte ou seguro",
+        "en": "beef up",
+        "explicacion": "Jerga empresarial de nivel C1 que significa robustecer un sistema de seguridad, un argumento legal o un equipo de trabajo añadiendo más recursos."
+    },
+    {
+        "es": "Repasar o refrescar el conocimiento sobre un tema olvidado",
+        "pt": "Dar uma espanada / Relembrar ou praticar um assunto",
+        "en": "brush up on",
+        "explicacion": "Perfecto para el contexto de idiomas. Significa volver a estudiar algo que ya sabías en el pasado pero que has dejado de practicar por mucho tiempo."
+    },
+    {
+        "es": "Planificar detalladamente los pasos de un proyecto",
+        "pt": "Planejar detalhadamente / Traçar um plano",
+        "en": "map out",
+        "explicacion": "Significa estructurar, diseñar o esquematizar de forma gráfica y organizada el camino que seguirá un negocio o desarrollo de software en el futuro."
+    },
+    {
+        "es": "Encontrarse con alguien de forma casual e inesperada",
+        "pt": "Esbarrar com alguém por acaso",
+        "en": "run into",
+        "explicacion": "Sinónimo informal de 'meet by chance'. Se usa cuando te topas en la calle o supermercado con un conocido sin haber agendado una cita previa."
+    },
+    {
+        "es": "Resolver un problema complejo organizando sus partes",
+        "pt": "Resolver uma situação / Organizar uma bagunça",
+        "en": "sort out",
+        "explicacion": "Significa poner orden en un caos de cables, documentos, finanzas o resolver un malentendido personal de manera madura."
+    },
+    {
+        "es": "Tratar un tema por encima sin profundizar demasiado",
+        "pt": "Passar de raspão / Mencionar superficialmente um assunto",
+        "en": "touch on",
+        "explicacion": "Significa hablar brevemente de un punto específico durante una presentación o informe antes de pasar al tema principal."
+    },
+    {
+        "es": "Terminar en una situación o lugar no planeado originalmente",
+        "pt": "Acabar em uma situação inesperada / Ir parar em algum lugar",
+        "en": "wind up",
+        "explicacion": "Significa el desenlace final de una serie de decisiones caóticas. Ejemplo: 'If you don't save money, you'll wind up broke'."
+    },
+    {
+        "es": "Llevar a cabo una tarea, investigación o experimento",
+        "pt": "Executar / Realizar um experimento ou tarefa",
+        "en": "carry out",
+        "explicacion": "Verbo formal académico C1 de alta frecuencia. Significa ejecutar instrucciones, planes, órdenes militares o análisis científicos."
+    },
+    {
+        "es": "Contar con alguien / Confiar plenamente en su apoyo",
+        "pt": "Contar com alguém / Confiar em alguém",
+        "en": "count on",
+        "explicacion": "Expresa la certeza de que una persona estará allí para ayudarte y respaldarte en los momentos en que más lo necesites."
+    },
+    {
+        "es": "Pensar obsesivamente en un error o arrepentimiento del pasado",
+        "pt": "Ficar remoendo o passado / Pensar demais em algo ruim",
+        "en": "dwell on",
+        "explicacion": "Significa quedarse estancado mentalmente sufriendo por una mala situación o un fracaso que ya no se puede modificar."
+    },
+    {
+        "es": "Recurrir a un plan B o reserva de dinero ante una emergencia",
+        "pt": "Recorrer a algo em caso de emergência / Ter uma reserva",
+        "en": "fall back on",
+        "explicacion": "Estrategia de supervivencia financiera o logística: utilizar un colchón de ahorros o un sistema alternativo cuando el plan principal falla por completo."
+    },
+    {
+        "es": "Superar una enfermedad, ruptura amorosa o trauma emocional",
+        "pt": "Superar uma situação difícil ou doença / Superar um ex",
+        "en": "get over",
+        "explicacion": "Significa recuperar la salud física o el equilibrio emocional tras un evento doloroso que te tuvo inactivo o deprimido."
+    },
+    {
+        "es": "Investigar a fondo un misterio, queja o problema técnico",
+        "pt": "Investigar / Analisar detalhadamente um problema",
+        "en": "look into",
+        "explicacion": "Promesa formal en entornos profesionales: indica que vas a indagar los hechos detalladamente antes de proponer una solución. Ejemplo: 'We will look into this issue immediately'."
+    },
+    {
+        "es": "Reprimir una emoción, risa o lágrimas",
+        "pt": "Segurar as emoções / Conter-se",
+        "en": "hold back",
+        "explicacion": "Significa evitar mostrar lo que sientes o contener tu verdadero potencial por culpa del miedo, timidez o protocolo social."
+    },
+    {
+        "es": "Desglosar o explicar algo paso a paso de forma detallada",
+        "pt": "Explicar detalhadamente / Detalhar passo a passo",
+        "en": "break down",
+        "explicacion": "Significa dividir un concepto masivo o un presupuesto grande en partes más pequeñas y digeribles para que el cliente lo entienda fácilmente."
+    },
+    {
+        "es": "Compensar un error o retraso realizando una buena acción",
+        "pt": "Compensar um erro / Redimir-se",
+        "en": "make up for",
+        "explicacion": "Significa balancear el daño provocado por una mala acción inicial entregando un valor extra. Ejemplo: 'I'll buy you dinner to make up for being late'."
+    },
+    {
+        "es": "Ceder en una discusión / Retirarse de una postura testaruda",
+        "pt": "Ceder / Voltar atrás em uma exigência",
+        "en": "back down",
+        "explicacion": "Significa admitir que estabas equivocado o retirar tus demandas agresivas ante una negociación cuando te das cuenta de que vas a perder."
+    },
+    {
+        "es": "Despedir a trabajadores de forma definitiva por problemas económicos de la empresa",
+        "pt": "Demitir funcionários por razões econômicas / Fazer cortes de pessoal",
+        "en": "lay off",
+        "explicacion": "A diferencia de despedir por mal comportamiento ('fire'), 'lay off' se usa cuando la causa de la desvinculación es estrictamente financiera o de reestructuración corporativa."
+    },
+    {
+        "es": "Seleccionar a una sola persona de un grupo para criticarla o premiarla",
+        "pt": "Destacar ou escolher alguém especificamente",
+        "en": "single out",
+        "explicacion": "Significa apuntar o discriminar (positiva o negativamente) a un individuo dentro de un colectivo para darle un trato especial."
+    },
+    {
+        "es": "Ceder ante la presión o exigencias de otra persona",
+        "pt": "Render-se / Ceder à pressão de alguém",
+        "en": "yield to",
+        "explicacion": "Verbo formal C1 que denota sumisión o aceptación forzosa de las condiciones impuestas por una fuerza superior en un debate o conflicto."
+    },
+    {
+        "es": "Eliminar o filtrar elementos indeseables de un grupo",
+        "pt": "Filtrar / Eliminar o que não serve de um grupo",
+        "en": "weed out",
+        "explicacion": "Metáfora agrícola que significa arrancar la 'maleza' (weeds). En recursos humanos o procesos de selección, significa descartar a los candidatos no calificados."
+    },
+    {
+        "es": "Ignorar o restarle importancia a un error grave en una conversación",
+        "pt": "Minimizar um erro / Passar pano por cima de algo ruim",
+        "en": "gloss over",
+        "explicacion": "Significa tratar de ocultar un fallo, una mala noticia o un defecto cosmético mencionándolo de forma rápida y descuidada para que nadie lo note."
+    },
+    {
+        "es": "El punto clave / La conclusión más importante de un negocio",
+        "pt": "O ponto principal / O resultado final de uma discussão",
+        "en": "bottom line",
+        "explicacion": "Proviene de la última línea de un estado financiero de pérdidas y ganancias, donde se muestra el balance final real de dinero obtenido."
+    },
+    {
+        "es": "Una cifra estimada aproximada",
+        "pt": "Uma estimativa aproximada / Um valor estimado",
+        "en": "ballpark figure",
+        "explicacion": "Viene del béisbol. Si una pelota cae dentro de los límites del estadio ('the ballpark'), está cerca del objetivo. Significa dar un presupuesto aproximado cuando aún no tienes los costos exactos."
+    },
+    {
+        "es": "Mantener a alguien informado de las novedades",
+        "pt": "Manter alguém informado / Deixar a par das novidades",
+        "en": "keep posted",
+        "explicacion": "Viene de la época del correo postal rápido. Significa enviar reportes periódicos a tu jefe o equipo para que conozcan el avance de una situación."
+    },
+    {
+        "es": "Volver al punto de partida / Empezar todo de cero otra vez",
+        "pt": "Voltar à estaca zero / Recomeçar do absoluto zero",
+        "en": "back to square one",
+        "explicacion": "Viene de los juegos de mesa antiguos donde caer en la casilla número uno obligaba al jugador a reiniciar todo su recorrido desde el comienzo."
+    },
+    {
+        "es": "Lo que ocurre de forma privada detrás del escenario o de la oficina",
+        "pt": "Nos bastidores / Por trás das câmeras",
+        "en": "behind the scenes",
+        "explicacion": "Hace referencia al trabajo técnico invisible en el teatro o televisión. En negocios, denota el esfuerzo administrativo que el cliente final no ve."
+    },
+    {
+        "es": "Lo último en tecnología / Lo más moderno que existe",
+        "pt": "Tecnologia de ponta / O que há de mais moderno",
+        "en": "state of the art",
+        "explicacion": "Término técnico de patentes del siglo XX que describe el nivel máximo de desarrollo científico alcanzado en una industria en el momento actual."
+    },
+    {
+        "es": "Publicidad boca a boca / Recomendaciones directas de clientes",
+        "pt": "De boca em boca / Recomendação pessoal",
+        "en": "word of mouth",
+        "explicacion": "La forma de marketing más poderosa y orgánica del mundo, donde el producto se vende gracias a las recomendaciones de los propios consumidores."
+    }
+]
